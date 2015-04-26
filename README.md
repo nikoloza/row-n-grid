@@ -1,4 +1,4 @@
-# row(n) grid system
+# row<sup>n</sup> grid system
 The new way to use grid system
 
 
