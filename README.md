@@ -3,7 +3,7 @@ The new way to use grid system
 
 
 ## Grid system
-The best grid system to work with. You haven't seen grid system like this before. It's flexible and works for any type of layout.
+The best grid system to work with. It's flexible and works for any type of layout.
 
 Starting with parent element as it plays main role here. We have to know how many children we want to be in the container.
 
